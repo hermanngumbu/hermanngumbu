@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hermanngumbu" alt="hermanngumbu" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Developpement at Simplon**
-
 - 📝 I regularly write articles on [hermanngumbu.medium.com](hermanngumbu.medium.com)
 
-- 💬 Ask me about **react, vue, express, laravel**
+- 💬 Ask me about **REACT, NODE, AWS**
 
 - 📫 How to reach me **hermanngumbu@gmail.com**
 
